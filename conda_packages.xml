@@ -3495,11 +3495,11 @@
         <entry key="openpyxl">
           <value>
             <list>
-              <option value="1.8.5" />
-              <option value="1.8.2" />
+              <option value="2.3.2" />
               <option value="2.2.6" />
               <option value="2.0.2" />
-              <option value="2.3.2" />
+              <option value="1.8.5" />
+              <option value="1.8.2" />
               <option value="1.6.2" />
             </list>
           </value>
@@ -3557,25 +3557,25 @@
         <entry key="pandas">
           <value>
             <list>
-              <option value="0.16.2" />
-              <option value="0.10.1" />
               <option value="0.18.0" />
               <option value="0.17.1" />
+              <option value="0.17.0" />
+              <option value="0.16.2" />
+              <option value="0.16.1" />
               <option value="0.16.0" />
-              <option value="0.12.0" />
               <option value="0.15.2" />
               <option value="0.15.1" />
+              <option value="0.15.0" />
+              <option value="0.14.1" />
+              <option value="0.14.0" />
               <option value="0.13.1" />
               <option value="0.13.0" />
-              <option value="0.14.0" />
-              <option value="0.14.1" />
+              <option value="0.12.0" />
               <option value="0.11.0" />
+              <option value="0.10.1" />
               <option value="0.10.0" />
-              <option value="0.16.1" />
-              <option value="0.17.0" />
-              <option value="0.15.0" />
-              <option value="0.9.0" />
               <option value="0.9.1" />
+              <option value="0.9.0" />
             </list>
           </value>
         </entry>
@@ -5513,8 +5513,13 @@
       </map>
     </option>
     <option name="CONDA_CHANNELS">
-      <set />
+      <set>
+        <option value="https://repo.continuum.io/pkgs/free/noarch/" />
+        <option value="https://repo.continuum.io/pkgs/free/win-64/" />
+        <option value="https://repo.continuum.io/pkgs/pro/noarch/" />
+        <option value="https://repo.continuum.io/pkgs/pro/win-64/" />
+      </set>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1486716556008" />
+    <option name="LAST_TIME_CHECKED" value="1486723241687" />
   </component>
 </application>
